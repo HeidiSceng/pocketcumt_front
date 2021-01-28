@@ -37,3 +37,8 @@
 <img height="30%" width="25%" src="https://cdn.jsdelivr.net/gh/zguolee/cloud_images/pocket_cumt_library.jpeg">
 <img height="30%" width="25%" src="https://cdn.jsdelivr.net/gh/zguolee/cloud_images/pocket_cumt_tel.jpeg">
 </div>
+
+
+## 开源许可
+
+本项目使用开源许可证 License GPLv3 ，代码开源仅供学习。
